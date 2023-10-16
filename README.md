@@ -4,7 +4,7 @@
 - repos
 
 1. aaa
-2. bbb
-3. ccc
+1. bbb
+1. ccc
 
 GitHubの練習用リポジトリです。
