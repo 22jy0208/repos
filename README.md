@@ -3,8 +3,8 @@
 - repos
 - repos
 
-1. aaa
-1. bbb
+この行をgithub側から変更し、こっち側でコミットします。
+この時eclipse側ではコンフリクトが発生するはずです。
 1. ccc
 
 GitHubの練習用リポジトリです。
